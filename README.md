@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radu</h1>
-<h3 align="center">Using Data Science to learn, solve problems and get paid for it... some daz.</h3>
+<h3 align="center">Using Data Science to learn, solve problems and get paid for it... one day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raducu85&label=Profile%20views&color=0e75b6&style=flat" alt="raducu85" /> </p>
 
