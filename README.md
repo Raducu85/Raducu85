@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radu</h1>
-<h3 align="center">Using Data Science to learn, solve problems and get paid for it... one day.</h3>
+<h3 align="center">Still learning to use Data Science to solve problems.</h3>
 
 - 🌱 I’m currently reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron**
 
